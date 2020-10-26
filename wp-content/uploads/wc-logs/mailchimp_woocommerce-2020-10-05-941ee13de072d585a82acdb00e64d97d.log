@@ -1,0 +1,8 @@
+2020-10-05T22:05:35+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 1195
+2020-10-05T22:05:51+00:00 NOTICE debug :: Order ID 1195 was pending and is now on-hold :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2020-10-05T22:07:35+00:00 NOTICE system.debug :: order 1195 is in on-hold status, and is being skipped for now.
